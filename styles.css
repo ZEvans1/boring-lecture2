@@ -2,21 +2,22 @@
   color: purple;
 }
 
-h2.intro {
+.intro h2 {
   font-size: 30px;
   font-family: fantasy;
   font-stretch: expanded;
   text-shadow: 3px 4px;
 }
 
-p.intro {
+.intro p {
   font-size: 10px;
   font-weight: bolder;
   font-family: cursive;
   background-color: white;
+  color: blue;
 }
 
-img.intro {
+.intro img {
   height: 500px;
   border-style: groove;
   border-width: thick;
