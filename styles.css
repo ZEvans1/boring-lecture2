@@ -24,6 +24,12 @@
   border-color: purple;
 }
 
+.selected {
+  background-color: yellow;
+  border: 5px solid red;
+  color: black;
+}
+
 h2 {
   font-size: 20px;
 }
